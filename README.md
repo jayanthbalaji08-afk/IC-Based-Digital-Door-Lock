@@ -33,9 +33,15 @@ The circuit combines digital logic and sequential control to process input condi
 
 *The exact locking sequence and operating behavior should be confirmed through simulation or hardware testing.*
 
-## Tools Used
+## Simulation
 
-* Electronic circuit design and simulation software
+This circuit was designed using the Falstad Circuit Simulator.
+
+**Simulation file:** `door_lock_circuit.txt`
+
+**Open the simulator:** https://falstad.com/circuit/
+
+Download the simulation file and load it into Falstad to inspect the circuit and explore its operation.
 
 ## Project Status
 
